@@ -1,4 +1,4 @@
-import {printPets, pets} from '../data/petData.js'
+import {pets} from '../data/petData.js'
 
 const printToDom = (stringToPrint, divId) => {
     const selectedDiv = document.getElementById(divId);
