@@ -1,9 +1,9 @@
-import {getAnimals} from './data/petData.js';
-// import { showAnimals } from './components/petComponent.js';
+import { getAnimals } from './data/petData.js';
+import { sortEvents } from './events.js';
 
 const initApp = () => {
     getAnimals();
-    // showAnimals();
+    sortEvents();
 };
 
 initApp();
