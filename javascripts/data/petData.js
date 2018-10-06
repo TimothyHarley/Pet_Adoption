@@ -32,4 +32,4 @@ const getAnimals = () => {
 
 
 
-export {getAnimals, pets, getPets, setPets}
+export {getAnimals, pets}
