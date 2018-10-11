@@ -14,4 +14,4 @@ This project was an exercise in modular javascript structure and Json creation a
 <p>Click on an animal button to sort the pets by type.</p> 
 
 ### Screenshot
-<img href="Screenshot.png" alt="Screenshot of the app"/> 
+<img src="Screenshot.png" alt="Screenshot of the app"/> 
